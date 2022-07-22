@@ -10,4 +10,4 @@ homepage = "https://github.com/ctz/webpki-roots"
 repository = "https://github.com/ctz/webpki-roots"
 
 [dependencies]
-webpki = { git = "https://github.com/jyao1/webpki.git", branch = "uefi_support" }
+webpki = { git = "https://github.com/gaojiaqi7/webpki.git", branch = "uefi_support" }
